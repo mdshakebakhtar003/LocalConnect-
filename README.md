@@ -1,5 +1,20 @@
 # 🌐 LocalConnect
 
+
+## 📹 App Demonstration
+
+### 🙋‍♂️ User Side : https://youtu.be/Xujx9nzWqLc?si=uhuKY-qWkJKed3Ji
+
+[![User Side Demo](http://img.youtube.com/vi/Xujx9nzWqLc/0.jpg)](https://youtu.be/Xujx9nzWqLc?si=uhuKY-qWkJKed3Ji)
+
+---
+
+### 🛠️ Worker Side : https://youtube.com/shorts/i9o1-sOnt58?si=XWxyO3RzvWPuKbYJ
+
+[![Worker Side Demo](http://img.youtube.com/vi/i9o1-sOnt58/0.jpg)](https://youtube.com/shorts/i9o1-sOnt58?si=XWxyO3RzvWPuKbYJ)
+
+---
+
 LocalConnect is a full-stack mobile application designed to seamlessly connect clients with nearby service providers (plumbers, electricians, carpenters, etc.) in real time. It features location-based booking, live chat, profile management, reviews, and a user-friendly interface for both clients and workers.
 
 ---
@@ -40,18 +55,6 @@ LocalConnect is a full-stack mobile application designed to seamlessly connect c
 
 ---
 
-## 📹 App Demonstration
 
-### 🙋‍♂️ User Side
-
-[![User Side Demo](http://img.youtube.com/vi/Xujx9nzWqLc/0.jpg)](https://youtu.be/Xujx9nzWqLc?si=uhuKY-qWkJKed3Ji)
-
----
-
-### 🛠️ Worker Side
-
-[![Worker Side Demo](http://img.youtube.com/vi/i9o1-sOnt58/0.jpg)](https://youtube.com/shorts/i9o1-sOnt58?si=XWxyO3RzvWPuKbYJ)
-
----
 
 ## 📌 Looking forward to add more features.

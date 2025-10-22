@@ -22,7 +22,7 @@
 
    <br><br>
 
-   <img src="./assets/expo-qr.png" alt="Expo QR Code" width="250" height="250" style="border: 2px solid #ccc; border-radius: 15px; padding: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+   <img src="./lcqr.svg" alt="Expo QR Code" width="250" height="250" style="border: 2px solid #ccc; border-radius: 15px; padding: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
 
    <br><br>
    <sub>*(Replace this image with your actual Expo QR code once generated.)*</sub>

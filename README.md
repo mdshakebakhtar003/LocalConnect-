@@ -4,32 +4,9 @@
 
 ## 📹 App Demonstration
 
-### 🪜 Steps to Try the App
 
-1. **Download the Expo Go App** on your mobile device  
-   📲 Available on both:  
-   - [Google Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent)  
-   - [Apple App Store](https://apps.apple.com/app/expo-go/id982107779)
 
-2. ****  
-   👉 Instantly open and explore **LocalConnect** on your mobile — no setup or commands needed!  
 
-   <div align="center">
-
-   <br>
-
-   💡 ****
-
-   <br><br>
-
-   <img src="" alt="Expo QR Code" width="250" height="250" style="border: 2px solid #ccc; border-radius: 15px; padding: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-
-   <br><br>
-   <sub>*()*</sub>
-
-   </div>
-
----
 
 ## 📹 App Demonstration Videos
 

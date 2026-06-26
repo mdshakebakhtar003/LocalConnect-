@@ -2,32 +2,24 @@
 
 ---
 
-## 📹 App Demonstration
+## 📱 App Demonstration
 
 ### 🪜 Steps to Try the App
 
-1. **Download the Expo Go App** on your mobile device  
-   📲 Available on both:  
-   - [Google Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent)  
-   - [Apple App Store](https://apps.apple.com/app/expo-go/id982107779)
+1. **Download the APK**
+   
+   📦 **Download LocalConnect APK:**  
+   👉 [Download LocalConnect.apk](https://expo.dev/accounts/shakeb_akhtar/projects/project/builds/0bf904ab-2e32-471c-8a88-f1e51ee08cb7)
 
-2. ****  
-   👉 Instantly open and explore **LocalConnect** on your mobile — no setup or commands needed!  
+2. **Install the APK**
+   - Enable **Install from Unknown Sources** (if prompted).
+   - Open the downloaded APK and install the application.
 
-   <div align="center">
+3. **Launch the App**
+   - Open **LocalConnect** and explore all the features.
+   
 
-   <br>
-
-   💡 **Scan Qr from expo app to run this app**
-
-   <br><br>
-
-   <img src="lcqr.svg" alt="Expo QR Code" width="250" height="250" style="border: 2px solid #ccc; border-radius: 15px; padding: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-
-   <br><br>
-   <sub>*()*</sub>
-
-   </div>
+> **Note:** The APK is intended for demonstration purposes.
 
 ---
 
